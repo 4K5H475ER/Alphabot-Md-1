@@ -1862,6 +1862,7 @@ exports.listMenu2 = (prefix) => {
 ╰❒ ${prefix}sound70
 
 ╭─❒ 「 TqTo 」 
+│○ AkshayGanz
 │○ My God
 │○ My Parents
 │○ Fatih A.
@@ -2601,6 +2602,7 @@ return`╭─❒ 「 Random Cewe 」
 
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
+│○ AkshayGanz
 │○ My God
 │○ My Parents
 │○ Fatih A.
